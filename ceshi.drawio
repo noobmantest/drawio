@@ -194,7 +194,19 @@
           <mxGeometry x="490" y="1185" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O4Cu_78WQrThNM5TKruB-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="O4Cu_78WQrThNM5TKruB-44" target="O4Cu_78WQrThNM5TKruB-24">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O4Cu_78WQrThNM5TKruB-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O4Cu_78WQrThNM5TKruB-44" target="O4Cu_78WQrThNM5TKruB-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="890" />
+              <mxPoint x="330" y="890" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="O4Cu_78WQrThNM5TKruB-44" value="functiongateway" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="650" y="630" width="160" height="60" as="geometry" />
